@@ -1,4 +1,4 @@
-<form action="app/Controller/Controller.php" method="POST">
+<form action="" method="POST">
     <fieldset> <legend>Cadastro</legend>
         <label>Nome: </label> <input type="text" name="nome" size="20" required> <br>
         <br>
