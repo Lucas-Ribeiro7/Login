@@ -1,0 +1,23 @@
+{
+    "name": "lucas-ribeiro7/curso-de-mvc-em-php",
+    "description": "Projeto de um Sistema de Cadastro feito em MVC",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Lucas Ribeiro",
+            "email": "caetanolucasribeiro@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer" : "6.0"
+    }
+}

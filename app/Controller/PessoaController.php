@@ -2,6 +2,8 @@
 
     namespace app\Controller;
 
-    class PessoaController{
+    use app\Core\Controller;
+
+    class PessoaController extends Controller{
         
     }

@@ -1,6 +1,6 @@
 <?php
 
-    use app\Model\Model;
+    use app\Core\Model;
 
     class PessoaModel extends Model{
         
