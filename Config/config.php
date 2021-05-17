@@ -5,7 +5,7 @@
 
     define("NAMESPACE_CONTROLLER", "app\\controllers\\");
 
-    define('URL_BASE', 'http://localhost/Sistema%20de%20Login/');
+    define('URL_BASE', 'http://localhost/Login/');
 
     define('SERVIDOR','localhost');
 

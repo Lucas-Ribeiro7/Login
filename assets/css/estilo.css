@@ -27,7 +27,7 @@ a.op-menu{
 }
 div.corpo{
     background-color: rgb(86, 94, 116);
-    width: 400px;
+    width: 100%;
     margin: auto;
     display: block;
     border-radius: 5px;
